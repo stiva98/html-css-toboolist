@@ -13,10 +13,13 @@ body{
     background-color: #F6F8F9;
 }
 /*inizio header*/
-#background-header{
-    background-color: white;
+header{
     margin-bottom: 50px;
     padding: 15px;
+}
+
+.background-white{
+    background-color: white;
 }
 .logo{
     vertical-align: middle;
