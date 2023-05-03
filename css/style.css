@@ -79,6 +79,7 @@ section{
     border-radius: 25%;
     display: inline-block;
     text-align: center;
+    
 }
 .blue{
     background-color: #45abea;
@@ -103,4 +104,8 @@ section{
 .green{
     background-color: #b0c926;
     border: 1px solid #b0c926;
+}
+.space-for-the-raw{
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
