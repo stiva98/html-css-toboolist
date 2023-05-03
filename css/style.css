@@ -71,11 +71,13 @@ h1{
 }
 .mini-container{
     color: white;
-    background-color: #45abea;
-    border: 1px solid #45abea;
     height: 35px;
     width: 100px;
     border-radius: 25%;
     display: inline-block;
     text-align: center;
+}
+.blue{
+    background-color: #45abea;
+    border: 1px solid #45abea;
 }
