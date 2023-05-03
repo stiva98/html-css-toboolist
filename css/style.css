@@ -52,6 +52,9 @@ h1{
     padding: 30px;
     line-height: 30px;
 }
+section{
+    margin-bottom: 30px;
+}
 .check{
     border-radius: 50%;
     height: 30px;
@@ -80,4 +83,24 @@ h1{
 .blue{
     background-color: #45abea;
     border: 1px solid #45abea;
+}
+.purple{
+    background-color: #9c72e4;
+    border: 1px solid #9c72e4;
+}
+.green-water{
+    background-color: #63bfa8;
+    border: 1px solid #63bfa8;
+}
+.orange{
+    background-color: #f29e33;
+    border: 1px solid #f29e33;
+}
+.fucsian{
+    background-color: #d863a1;
+    border: 1px solid #d863a1;
+}
+.green{
+    background-color: #b0c926;
+    border: 1px solid #b0c926;
 }
